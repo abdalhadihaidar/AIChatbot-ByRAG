@@ -1,0 +1,1967 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - ollama/ollama: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+By size
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+
+By use case
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+
+        Resources
+        
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ollama
+ 
+/
+
+ollama
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    7k
+
+
+
+
+ 
+
+
+          Star
+ 89k
+
+
+
+
+
+
+
+
+        Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+      
+
+
+
+
+
+ollama.com
+
+
+License
+
+
+
+
+
+     MIT license
+    
+
+
+
+
+
+
+89k
+          stars
+ 
+
+
+
+7k
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+988
+
+
+
+
+
+
+Pull requests
+252
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+
+ 
+
+
+
+
+
+ollama/ollama
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    mainBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History3,479 Commits.github.github  apiapi  appapp  authauth  buildbuild  cmdcmd  convertconvert  docsdocs  envconfigenvconfig  examplesexamples  formatformat  gpugpu  integrationintegration  llmllm  macappmacapp  openaiopenai  parserparser  progressprogress  readlinereadline  runnersrunners  scriptsscripts  serverserver  templatetemplate  typestypes  util/bufioutilutil/bufioutil  versionversion  .dockerignore.dockerignore  .gitattributes.gitattributes  .gitignore.gitignore  .gitmodules.gitmodules  .golangci.yaml.golangci.yaml  .prettierrc.json.prettierrc.json  CONTRIBUTING.mdCONTRIBUTING.md  DockerfileDockerfile  LICENSELICENSE  README.mdREADME.md  SECURITY.mdSECURITY.md  go.modgo.mod  go.sumgo.sum  main.gomain.go  View all filesRepository files navigationREADMEMIT licenseSecurity
+ 
+
+Ollama
+
+Get up and running with large language models.
+macOS
+Download
+Windows preview
+Download
+Linux
+curl -fsSL https://ollama.com/install.sh | sh
+
+Manual install instructions
+Docker
+The official Ollama Docker image ollama/ollama is available on Docker Hub.
+Libraries
+
+ollama-python
+ollama-js
+
+Quickstart
+To run and chat with Llama 3.1:
+ollama run llama3.1
+
+Model library
+Ollama supports a list of models available on ollama.com/library
+Here are some example models that can be downloaded:
+
+
+
+Model
+Parameters
+Size
+Download
+
+
+
+
+Llama 3.1
+8B
+4.7GB
+ollama run llama3.1
+
+
+Llama 3.1
+70B
+40GB
+ollama run llama3.1:70b
+
+
+Llama 3.1
+405B
+231GB
+ollama run llama3.1:405b
+
+
+Phi 3 Mini
+3.8B
+2.3GB
+ollama run phi3
+
+
+Phi 3 Medium
+14B
+7.9GB
+ollama run phi3:medium
+
+
+Gemma 2
+2B
+1.6GB
+ollama run gemma2:2b
+
+
+Gemma 2
+9B
+5.5GB
+ollama run gemma2
+
+
+Gemma 2
+27B
+16GB
+ollama run gemma2:27b
+
+
+Mistral
+7B
+4.1GB
+ollama run mistral
+
+
+Moondream 2
+1.4B
+829MB
+ollama run moondream
+
+
+Neural Chat
+7B
+4.1GB
+ollama run neural-chat
+
+
+Starling
+7B
+4.1GB
+ollama run starling-lm
+
+
+Code Llama
+7B
+3.8GB
+ollama run codellama
+
+
+Llama 2 Uncensored
+7B
+3.8GB
+ollama run llama2-uncensored
+
+
+LLaVA
+7B
+4.5GB
+ollama run llava
+
+
+Solar
+10.7B
+6.1GB
+ollama run solar
+
+
+
+NoteYou should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
+
+Customize a model
+Import from GGUF
+Ollama supports importing GGUF models in the Modelfile:
+
+
+Create a file named Modelfile, with a FROM instruction with the local filepath to the model you want to import.
+FROM ./vicuna-33b.Q4_0.gguf
+
+
+
+Create the model in Ollama
+ollama create example -f Modelfile
+
+
+
+Run the model
+ollama run example
+
+
+
+Import from PyTorch or Safetensors
+See the guide on importing models for more information.
+Customize a prompt
+Models from the Ollama library can be customized with a prompt. For example, to customize the llama3.1 model:
+ollama pull llama3.1
+
+Create a Modelfile:
+FROM llama3.1
+
+# set the temperature to 1 [higher is more creative, lower is more coherent]
+PARAMETER temperature 1
+
+# set the system message
+SYSTEM """
+You are Mario from Super Mario Bros. Answer as Mario, the assistant, only.
+"""
+
+Next, create and run the model:
+ollama create mario -f ./Modelfile
+ollama run mario
+>>> hi
+Hello! It's your friend Mario.
+
+For more examples, see the examples directory. For more information on working with a Modelfile, see the Modelfile documentation.
+CLI Reference
+Create a model
+ollama create is used to create a model from a Modelfile.
+ollama create mymodel -f ./Modelfile
+
+Pull a model
+ollama pull llama3.1
+
+
+This command can also be used to update a local model. Only the diff will be pulled.
+
+Remove a model
+ollama rm llama3.1
+
+Copy a model
+ollama cp llama3.1 my-model
+
+Multiline input
+For multiline input, you can wrap text with """:
+>>> """Hello,
+... world!
+... """
+I'm a basic program that prints the famous "Hello, world!" message to the console.
+
+Multimodal models
+ollama run llava "What's in this image? /Users/jmorgan/Desktop/smile.png"
+The image features a yellow smiley face, which is likely the central focus of the picture.
+
+Pass the prompt as an argument
+$ ollama run llama3.1 "Summarize this file: $(cat README.md)"
+ Ollama is a lightweight, extensible framework for building and running language models on the local machine. It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in a variety of applications.
+
+Show model information
+ollama show llama3.1
+
+List models on your computer
+ollama list
+
+Start Ollama
+ollama serve is used when you want to start ollama without running the desktop application.
+Building
+See the developer guide
+Running local builds
+Next, start the server:
+./ollama serve
+
+Finally, in a separate shell, run a model:
+./ollama run llama3.1
+
+REST API
+Ollama has a REST API for running and managing models.
+Generate a response
+curl http://localhost:11434/api/generate -d '{
+  "model": "llama3.1",
+  "prompt":"Why is the sky blue?"
+}'
+
+Chat with a model
+curl http://localhost:11434/api/chat -d '{
+  "model": "llama3.1",
+  "messages": [
+    { "role": "user", "content": "why is the sky blue?" }
+  ]
+}'
+
+See the API documentation for all endpoints.
+Community Integrations
+Web & Desktop
+
+Open WebUI
+Enchanted (macOS native)
+Hollama
+Lollms-Webui
+LibreChat
+Bionic GPT
+HTML UI
+Saddle
+Chatbot UI
+Chatbot UI v2
+Typescript UI
+Minimalistic React UI for Ollama Models
+Ollamac
+big-AGI
+Cheshire Cat assistant framework
+Amica
+chatd
+Ollama-SwiftUI
+Dify.AI
+MindMac
+NextJS Web Interface for Ollama
+Msty
+Chatbox
+WinForm Ollama Copilot
+NextChat with Get Started Doc
+Alpaca WebUI
+OllamaGUI
+OpenAOE
+Odin Runes
+LLM-X (Progressive Web App)
+AnythingLLM (Docker + MacOs/Windows/Linux native app)
+Ollama Basic Chat: Uses HyperDiv Reactive UI
+Ollama-chats RPG
+QA-Pilot (Chat with Code Repository)
+ChatOllama (Open Source Chatbot based on Ollama with Knowledge Bases)
+CRAG Ollama Chat (Simple Web Search with Corrective RAG)
+RAGFlow (Open-source Retrieval-Augmented Generation engine based on deep document understanding)
+StreamDeploy (LLM Application Scaffold)
+chat (chat web app for teams)
+Lobe Chat with Integrating Doc
+Ollama RAG Chatbot (Local Chat with multiple PDFs using Ollama and RAG)
+BrainSoup (Flexible native client with RAG & multi-agent automation)
+macai (macOS client for Ollama, ChatGPT, and other compatible API back-ends)
+Olpaka (User-friendly Flutter Web App for Ollama)
+OllamaSpring (Ollama Client for macOS)
+LLocal.in (Easy to use Electron Desktop Client for Ollama)
+AiLama (A Discord User App that allows you to interact with Ollama anywhere in discord )
+Ollama with Google Mesop (Mesop Chat Client implementation with Ollama)
+Painting Droid (Painting app with AI integrations)
+Kerlig AI (AI writing assistant for macOS)
+AI Studio
+Sidellama (browser-based LLM client)
+LLMStack (No-code multi-agent framework to build LLM agents and workflows)
+BoltAI for Mac (AI Chat Client for Mac)
+Harbor (Containerized LLM Toolkit with Ollama as default backend)
+Go-CREW (Powerful Offline RAG in Golang)
+PartCAD (CAD model generation with OpenSCAD and CadQuery)
+Ollama4j Web UI - Java-based Web UI for Ollama built with Vaadin, Spring Boot and Ollama4j
+PyOllaMx - macOS application capable of chatting with both Ollama and Apple MLX models.
+Claude Dev - VSCode extension for multi-file/whole-repo coding
+Cherry Studio (Desktop client with Ollama support)
+ConfiChat (Lightweight, standalone, multi-platform, and privacy focused LLM chat interface with optional encryption)
+Archyve (RAG-enabling document library)
+crewAI with Mesop (Mesop Web Interface to run crewAI with Ollama)
+
+Terminal
+
+oterm
+Ellama Emacs client
+Emacs client
+gen.nvim
+ollama.nvim
+ollero.nvim
+ollama-chat.nvim
+ogpt.nvim
+gptel Emacs client
+Oatmeal
+cmdh
+ooo
+shell-pilot
+tenere
+llm-ollama for Datasette's LLM CLI.
+typechat-cli
+ShellOracle
+tlm
+podman-ollama
+gollama
+Ollama eBook Summary
+Ollama Mixture of Experts (MOE) in 50 lines of code
+
+Apple Vision Pro
+
+Enchanted
+
+Database
+
+MindsDB (Connects Ollama models with nearly 200 data platforms and apps)
+chromem-go with example
+
+Package managers
+
+Pacman
+Gentoo
+Helm Chart
+Guix channel
+Nix package
+Flox
+
+Libraries
+
+LangChain and LangChain.js with example
+Firebase Genkit
+crewAI
+LangChainGo with example
+LangChain4j with example
+LangChainRust with example
+LlamaIndex
+LiteLLM
+OllamaFarm for Go
+OllamaSharp for .NET
+Ollama for Ruby
+Ollama-rs for Rust
+Ollama-hpp for C++
+Ollama4j for Java
+ModelFusion Typescript Library
+OllamaKit for Swift
+Ollama for Dart
+Ollama for Laravel
+LangChainDart
+Semantic Kernel - Python
+Haystack
+Elixir LangChain
+Ollama for R - rollama
+Ollama for R - ollama-r
+Ollama-ex for Elixir
+Ollama Connector for SAP ABAP
+Testcontainers
+Portkey
+PromptingTools.jl with an example
+LlamaScript
+Gollm
+Ollamaclient for Golang
+High-level function abstraction in Go
+Ollama PHP
+
+Mobile
+
+Enchanted
+Maid
+ConfiChat (Lightweight, standalone, multi-platform, and privacy focused LLM chat interface with optional encryption)
+
+Extensions & Plugins
+
+Raycast extension
+Discollama (Discord bot inside the Ollama discord channel)
+Continue
+Obsidian Ollama plugin
+Logseq Ollama plugin
+NotesOllama (Apple Notes Ollama plugin)
+Dagger Chatbot
+Discord AI Bot
+Ollama Telegram Bot
+Hass Ollama Conversation
+Rivet plugin
+Obsidian BMO Chatbot plugin
+Cliobot (Telegram bot with Ollama support)
+Copilot for Obsidian plugin
+Obsidian Local GPT plugin
+Open Interpreter
+Llama Coder (Copilot alternative using Ollama)
+Ollama Copilot (Proxy that allows you to use ollama as a copilot like Github copilot)
+twinny (Copilot and Copilot chat alternative using Ollama)
+Wingman-AI (Copilot code and chat alternative using Ollama and Hugging Face)
+Page Assist (Chrome Extension)
+Plasmoid Ollama Control (KDE Plasma extension that allows you to quickly manage/control Ollama model)
+AI Telegram Bot (Telegram bot using Ollama in backend)
+AI ST Completion (Sublime Text 4 AI assistant plugin with Ollama support)
+Discord-Ollama Chat Bot (Generalized TypeScript Discord Bot w/ Tuning Documentation)
+Discord AI chat/moderation bot Chat/moderation bot written in python. Uses Ollama to create personalities.
+Headless Ollama (Scripts to automatically install ollama client & models on any OS for apps that depends on ollama server)
+vnc-lm (A containerized Discord bot with support for attachments and web links)
+LSP-AI (Open-source language server for AI-powered functionality)
+QodeAssist (AI-powered coding assistant plugin for Qt Creator)
+
+Supported backends
+
+llama.cpp project founded by Georgi Gerganov.
+
+   
+
+
+
+
+
+
+
+
+About
+
+        Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+      
+
+
+
+
+
+ollama.com
+
+
+Topics
+
+
+
+  go
+
+
+  golang
+
+
+  llama
+
+
+  gemma
+
+
+  mistral
+
+
+  llm
+
+
+  llms
+
+
+  llava
+
+
+  llama2
+
+
+  ollama
+
+
+  llama3
+
+
+  phi3
+
+
+  gemma2
+
+
+
+Resources
+
+
+
+
+
+        Readme
+ 
+License
+
+
+
+
+
+     MIT license
+    
+
+Security policy
+
+
+
+
+
+        Security policy
+      
+
+
+
+
+
+
+
+
+Activity
+ 
+
+
+
+
+
+Custom properties
+ 
+Stars
+
+
+
+
+
+89k
+      stars
+ 
+Watchers
+
+
+
+
+
+528
+      watching
+ 
+Forks
+
+
+
+
+
+7k
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+      90
+
+
+
+
+
+
+
+v0.3.10
+
+          Latest
+ 
+Sep 6, 2024
+
+ 
+
+        + 89 releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Contributors
+      305
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      + 291 contributors
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go
+84.9%
+
+
+
+
+
+
+
+C
+4.5%
+
+
+
+
+
+
+
+Shell
+4.3%
+
+
+
+
+
+
+
+PowerShell
+2.6%
+
+
+
+
+
+
+
+TypeScript
+1.7%
+
+
+
+
+
+
+
+Dockerfile
+1.1%
+
+
+
+
+
+
+
+Other
+0.9%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

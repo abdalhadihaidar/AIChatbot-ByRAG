@@ -1,0 +1,56 @@
+Brand,Model,OS,Processor,RAM (GB),Storage (GB),Battery (mAh),Display Size (inches),Camera (MP),Price (USD)
+Apple,iPhone 13,iOS,A15 Bionic,4,128,3240,6.1,12,799
+Samsung,Galaxy S21,Android,Exynos 2100,8,128,4000,6.2,64,699
+Google,Pixel 6,Android,Google Tensor,8,128,4614,6.4,50,599
+OnePlus,OnePlus 9 Pro,Android,Qualcomm Snapdragon 888,12,256,4500,6.7,48,1069
+Xiaomi,Mi 11 Ultra,Android,Qualcomm Snapdragon 888,12,256,5000,6.81,50,899
+Apple,iPhone 12,iOS,A14 Bionic,4,64,2815,6.1,12,699
+Samsung,Galaxy Note 20,Android,Exynos 990,8,256,4300,6.7,108,949
+Google,Pixel 5a,Android,Qualcomm Snapdragon 765G,6,128,4680,6.34,12.2,449
+OnePlus,OnePlus 8T,Android,Qualcomm Snapdragon 865,12,256,4500,6.55,48,749
+Xiaomi,Redmi Note 10 Pro,Android,Qualcomm Snapdragon 732G,6,128,5020,6.67,108,279
+Apple,iPhone SE (2020),iOS,A13 Bionic,3,64,1821,4.7,12,399
+Samsung,Galaxy A52,Android,Qualcomm Snapdragon 720G,6,128,4500,6.5,64,349
+Google,Pixel 4a,Android,Qualcomm Snapdragon 730G,6,128,3140,5.81,12.2,349
+OnePlus,OnePlus Nord,Android,Qualcomm Snapdragon 765G,8,128,4115,6.44,48,399
+Xiaomi,Poco X3 Pro,Android,Qualcomm Snapdragon 860,8,256,5160,6.67,48,299
+Apple,iPhone 11,iOS,A13 Bionic,4,64,3110,6.1,12,599
+Samsung,Galaxy S20 FE,Android,Qualcomm Snapdragon 865,6,128,4500,6.5,12,699
+Google,Pixel 4 XL,Android,Qualcomm Snapdragon 855,6,128,3700,6.3,12.2,899
+OnePlus,OnePlus 7T,Android,Qualcomm Snapdragon 855+,8,128,3800,6.55,48,599
+Xiaomi,Mi 10,Android,Qualcomm Snapdragon 865,8,256,4780,6.67,108,699
+Apple,iPhone XS,iOS,A12 Bionic,4,64,2658,5.8,12,999
+Samsung,Galaxy S10,Android,Exynos 9820,8,128,3400,6.1,12,749
+Google,Pixel 3a,Android,Qualcomm Snapdragon 670,4,64,3000,5.6,12.2,399
+OnePlus,OnePlus 6T,Android,Qualcomm Snapdragon 845,8,128,3700,6.41,16,549
+Xiaomi,Redmi Note 9 Pro,Android,Qualcomm Snapdragon 720G,6,128,5020,6.67,48,279
+Apple,iPhone XR,iOS,A12 Bionic,3,64,2942,6.1,12,499
+Samsung,Galaxy A71,Android,Qualcomm Snapdragon 730,6,128,4500,6.7,64,349
+Google,Pixel 3,Android,Qualcomm Snapdragon 845,4,64,2915,5.5,12.2,499
+OnePlus,OnePlus 7 Pro,Android,Qualcomm Snapdragon 855,12,256,4000,6.67,48,669
+Xiaomi,Mi 9,Android,Qualcomm Snapdragon 855,6,128,3300,6.39,48,499
+Apple,iPhone 8,iOS,A11 Bionic,2,64,1821,4.7,12,449
+Samsung,Galaxy S9,Android,Exynos 9810,4,64,3000,5.8,12,499
+Google,Pixel 2 XL,Android,Qualcomm Snapdragon 835,4,64,3520,6.0,12.2,849
+OnePlus,OnePlus 6,Android,Qualcomm Snapdragon 845,6,64,3300,6.28,16,529
+Xiaomi,Poco F1,Android,Qualcomm Snapdragon 845,6,128,4000,6.18,12,329
+Apple,iPhone 7,iOS,A10 Fusion,2,32,1960,4.7,12,449
+Samsung,Galaxy Note 8,Android,Exynos 8895,6,64,3300,6.3,12,929
+Google,Pixel 1,Android,Qualcomm Snapdragon 821,4,32,2770,5.0,12.3,649
+OnePlus,OnePlus 5T,Android,Qualcomm Snapdragon 835,6,64,3300,6.01,16,499
+Xiaomi,Mi Mix 3,Android,Qualcomm Snapdragon 845,6,128,3200,6.39,12,499
+Apple,iPhone 6S,iOS,A9,2,32,1715,4.7,12,299
+Samsung,Galaxy S8,Android,Exynos 8895,4,64,3000,5.8,12,499
+Google,Nexus 6P,Android,Qualcomm Snapdragon 810,3,32,3450,5.7,12.3,499
+OnePlus,OnePlus 3T,Android,Qualcomm Snapdragon 821,6,64,3400,5.5,16,439
+Xiaomi,Mi 5,Android,Qualcomm Snapdragon 820,3,32,3000,5.15,16,299
+Apple,iPhone 6,iOS,A8,1,16,1810,4.7,8,199
+Samsung,Galaxy A50,Android,Exynos 9610,4,64,4000,6.4,25,299
+Google,Nexus 5X,Android,Qualcomm Snapdragon 808,2,32,2700,5.2,12.3,379
+OnePlus,OnePlus X,Android,Qualcomm Snapdragon 801,3,16,2525,5.0,13,249
+Xiaomi,Redmi Note 4,Android,Qualcomm Snapdragon 625,4,64,4100,5.5,13,169
+Apple,iPhone 5S,iOS,A7,1,16,1560,4.0,8,199
+Samsung,Galaxy J7,Android,Exynos 7870,3,16,3300,5.5,13,249
+Google,Nexus 6,Android,Qualcomm Snapdragon 805,3,32,3220,6.0,13,499
+OnePlus,OnePlus One,Android,Qualcomm Snapdragon 801,3,16,3100,5.5,13,299
+Xiaomi,Redmi 3S,Android,Qualcomm Snapdragon 430,3,32,4100,5.0,13,149
